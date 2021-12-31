@@ -1,0 +1,1 @@
+See https://github.com/shadaj/scalapy/issues/246
